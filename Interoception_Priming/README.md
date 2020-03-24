@@ -29,7 +29,7 @@ Image Credit: Yoris et al., 2015
   Change port if using EEG   
 %-------------------------------------------------------------------------%  
 ## Heartbeat detection (HBD) Task:  
-  3 Conditions: 
+  4 Conditions: 
   - Exteroception/Interoception/EmotionRecognition/RatingScales
   
   Sequence: (Counterbalanced)
