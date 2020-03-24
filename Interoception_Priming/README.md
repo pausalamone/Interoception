@@ -21,7 +21,7 @@ Image Credit: Yoris et al., 2015
 
 (Additional references at the end of the file)  
   
-##  Mail: matias.fraile95@gmail.com / fittipaldisol@gmail.com / pausalamone@gmail.com 
+##  Mail:pausalamone@gmail.com 
 %-------------------------------------------------------------------------%  
 ## Requirements  
   Psychtoolbox  
@@ -29,10 +29,11 @@ Image Credit: Yoris et al., 2015
   Change port if using EEG   
 %-------------------------------------------------------------------------%  
 ## Heartbeat detection (HBD) Task:  
-  3 Conditions: Exteroception/Interoception/Feedback  
-  Sequence: Extero-Extero-Intero-Intero-Feedback-Intero-Intero  
-  2 Blocks per Condition - 2 min each - except for Feedback with only 1  
-  block  
+  3 Conditions: Exteroception/Interoception/EmotionRecognition/RatingScales  
+  Sequence: Counterbalanced - Interoception/Exteroception -> EmotionRecog/
+  RatingScales
+  4 Blocks: - 2 Interoception -> EmotionRecognition -> RatingScales
+            - 2 Exteroception -> EmotionRecognition -> RatingScales
 %-------------------------------------------------------------------------%  
 ## Interoception:   
   Tapping task following your OWN heartbeat.   
