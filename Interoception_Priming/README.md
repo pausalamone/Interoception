@@ -34,6 +34,7 @@ Image Credit: Yoris et al., 2015
   RatingScales
   4 Blocks: - 2 Interoception -> EmotionRecognition -> RatingScales
             - 2 Exteroception -> EmotionRecognition -> RatingScales
+
 %-------------------------------------------------------------------------%  
 ## Interoception:   
   Tapping task following your OWN heartbeat.   
