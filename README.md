@@ -10,15 +10,12 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
 % Last Updated: 12/13/2019  
 % Updated With: Interoceptive priming impacts emotional processing: Multimodal evidence from neurodegeneration
-%  
 %-----------------------------------------------------%
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Current Tasks:  
 % InteroceptivePriming - Matlab
-%  
 %-----------------------------------------------------%  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 # Current Analisis:  
 % Analisis_HBD - Matlab
-%  
 %-----------------------------------------------------% 
