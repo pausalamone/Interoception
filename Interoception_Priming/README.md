@@ -30,11 +30,12 @@ Image Credit: Yoris et al., 2015
 %-------------------------------------------------------------------------%  
 ## Heartbeat detection (HBD) Task:  
   3 Conditions: Exteroception/Interoception/EmotionRecognition/RatingScales  
-  Sequence: Counterbalanced - Interoception/Exteroception -> EmotionRecog/
-  RatingScales
-  4 Blocks: - 2 Interoception -> EmotionRecognition -> RatingScales
-            - 2 Exteroception -> EmotionRecognition -> RatingScales
-
+  Sequence: (Counterbalanced)
+  Interoception/Exteroception -> EmotionRecognition -> RatingScales
+  
+  4 Blocks: 
+  - 2 Interoception -> EmotionRecognition -> RatingScales
+  - 2 Exteroception -> EmotionRecognition -> RatingScales
 %-------------------------------------------------------------------------%  
 ## Interoception:   
   Tapping task following your OWN heartbeat.   
