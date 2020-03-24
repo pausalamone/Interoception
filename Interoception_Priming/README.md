@@ -29,14 +29,15 @@ Image Credit: Yoris et al., 2015
   Change port if using EEG   
 %-------------------------------------------------------------------------%  
 ## Heartbeat detection (HBD) Task:  
-  3 Conditions: Exteroception/Interoception/EmotionRecognition/RatingScales  
+  3 Conditions: 
+  Exteroception/Interoception/EmotionRecognition/RatingScales
   Sequence: (Counterbalanced)
   Interoception/Exteroception -> EmotionRecognition -> RatingScales
   
-  4 Blocks: 
+  4 Blocks:
   - 2 Interoception -> EmotionRecognition -> RatingScales
   - 2 Exteroception -> EmotionRecognition -> RatingScales
-%-------------------------------------------------------------------------%  
+ %-------------------------------------------------------------------------%  
 ## Interoception:   
   Tapping task following your OWN heartbeat.   
   Press Z every time you consider your heart beats.  
