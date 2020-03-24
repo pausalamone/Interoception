@@ -28,17 +28,24 @@ Image Credit: Yoris et al., 2015
   Recorded Heartbeats  
   Change port if using EEG   
 %-------------------------------------------------------------------------%  
+## Interoceptive-Priming Task (IPT)
+Includes 2 Phases: 
+1) Heartbeat detection (HBD) priming Task
+2) Facial Emotional Recognition Task (FER)
+
 ## Heartbeat detection (HBD) Task:  
-  4 Conditions: 
-  - Exteroception/Interoception/EmotionRecognition/RatingScales
-  
+  2 Conditions: 
+  Exteroception/Interoception/RatingScales (ConfidenceScores)
   Sequence: (Counterbalanced)
-  - Interoception/Exteroception -> EmotionRecognition -> RatingScales
+  Interoception/Exteroception -> RatingScales
   
-  4 Blocks:
-  - 2 Interoception -> EmotionRecognition -> RatingScales
-  - 2 Exteroception -> EmotionRecognition -> RatingScales
-  
+ ## Facial Emotional Recognition:
+   4 blocks (after each priming HBD condition)
+   56 Faces were displayed using Ekman and Friesen's (1971) stimulus  
+   Participants had to answer valence of emotional faces: 
+   -positive 
+   -negative 
+   -neutral 
  %-------------------------------------------------------------------------%  
 ## Interoception:   
   Tapping task following your OWN heartbeat.   
@@ -60,7 +67,8 @@ Image Credit: Yoris et al., 2015
 # REFERENCES:  
 % De la Fuente A, Sedeno L, Vignaga SS, Ellmann C, Sonzogni S, Belluscio L, et al. Multimodal neurocognitive markers of interoceptive   
 % tuning in smoked cocaine. Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology. 2019.   
-% Epub 2019/03/15.  
+% Epub 2019/03/15. 
+% Ekman P, Friesen WV. Constants across cultures in the face and emotion. Journal of personality and social psychology 1971; 17(2): 124.
 % Garcia-Cordero I, Sedeno L, de la Fuente L, Slachevsky A, Forno G, Klein F, et al. Feeling, learning from and being aware of inner  
 % states: interoceptive dimensions in neurodegeneration and stroke. Philosophical transactions of the Royal Society of London Series B, % Biological sciences. 2016;371(1708). Epub 2017/01/13.  
 % Garcia-Cordero I, Esteves S, Mikulan EP, Hesse E, Baglivo FH, Silva W, et al. Attention, in and Out: Scalp-Level and Intracranial EEG  % Correlates of Interoception and Exteroception. Frontiers in neuroscience. 2017;11:411. Epub 2017/08/05.  
